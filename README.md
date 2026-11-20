@@ -9,12 +9,13 @@ This project analyses tourism changes with seasonal trends using a sample datase
 To understand how tourism increases or decreases with change in seasons to identify patterns
 
 ## 3. Tools used
-- Pythom
+- Python
 - Panda
 - Matplotlib
 - Jupyter notebook
 
 ## 4. Steps performed
+collecting, cleaning, eda, report
 
 ## 5. Conclusion
 
